@@ -1,0 +1,21 @@
+.body{
+    text-align: center;
+    
+}
+.box{
+    box-shadow: 1px 0px antiquewhite;
+    width: 250px; height: 15px;
+}
+.round{
+    border-radius: 30px;
+}
+.fieldset{
+    width: 400px;
+    
+    
+}.next{
+    border-radius: 30px;
+}
+*{
+    flex-wrap: wrap;
+}
